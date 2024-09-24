@@ -1,5 +1,7 @@
 [
+  ["S001L001","Intro strand","syn","FSEV",1,300,"Sand, steiner, svaberg eller gress/siv","2024-09-22"],
   ["S001L010","Tid på dagen","syn","FSEV",1,300,"Morgen, middag eller kveld? Lyset","2024-09-22"],
+  ["S001L050","Bølgene","syn","FSEV",1,300,"Store og små bølger","2024-09-22"],
   ["S001L100","Ærfugl 1","fugl","F",2,600,"Parring","2024-09-22"],
   ["S001L101","Ærfugl 2","fugl","S",2,1200,"Ruging","2024-09-22"]
 ]
