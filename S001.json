@@ -1,7 +1,7 @@
 [
-  ["S001L000","Intro strand",   "FSEV", "KM","syn",    300,"2024-09-22"],
-  ["S001L001","Tid på dagen",   "FSEV", "KM","syn",    300,"2024-09-22"],
-  ["S001L100","Bølgene",        "FSEV", "KM","syn",    300,"2024-09-22"],
-  ["S001L200","Ærfugl parring", "F",    "KM","fugl",   600,"2024-09-22"],
-  ["S001L201","Ærfugl ruging",  "S",    "KM","fugl",  1200,"2024-09-22"]
+  ["S001LS00","Intro strand",   "FSEV", "KM","syn",    300,"2024-09-23"],
+  ["S001L000","Bølgene",        "FSEV", "KM","syn",    300,"2024-09-23"],
+  ["S001L020","Tid på dagen",   "FSEV", "KM","syn",    300,"2024-09-23"],
+  ["S001L500","Ærfugl parring", "F",    "KM","fugl",   600,"2024-09-23"],
+  ["S001L501","Ærfugl ruging",  "S",    "KM","fugl",  1200,"2024-09-23"]
 ]
