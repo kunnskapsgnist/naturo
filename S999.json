@@ -1,0 +1,23 @@
+[
+  ["S999LS00","Velg en scene","FSEV","K","",0,31,"2024-10-03"],
+  ["S999L000","Hva ser du nærmest deg? ","FSEV","K","",0,5,"2024-10-03"],
+  ["S999L020","Hva ser du mot høyre? ","FSEV","K","",0,9,"2024-10-03"],
+  ["S999L040","Hva ser du mot venstre? ","FSEV","K","",0,9,"2024-10-03"],
+  ["S999L060","Hva ser du i horisonten?","FSEV","K","",0,11,"2024-10-03"],
+  ["S999L080","Hva ser du når du løfter blikket?","FSEV","K","",0,9,"2024-10-03"],
+  ["S999L100","Hva ser du nedover?","FSEV","K","",0,10,"2024-10-03"],
+  ["S999L120","Velg en detalj og studer den","FSEV","K","",0,15,"2024-10-03"],
+  ["S999L140","Hvilken årstid er det?","FSEV","K","",0,14,"2024-10-03"],
+  ["S999L160","Hvilken tid på dagen er det?","FSEV","K","",0,9,"2024-10-03"],
+  ["S999L180","Hvilke farger ser du i scenen din?","FSEV","K","",0,9,"2024-10-03"],
+  ["S999L200","Hvordan er lyset og skyggene i scenen din?","FSEV","K","",0,16,"2024-10-03"],
+  ["S999L220","Hva slags vær har du i scenen din?","FSEV","K","",0,9,"2024-10-03"],
+  ["S999L240","Kjenner du vinden i scenen din?","FSEV","K","",0,8,"2024-10-03"],
+  ["S999L500","Noe som beveger seg?","FSEV","K","",0,11,"2024-10-03"],
+  ["S999L520","Hvilken temperatur er det i scenen din?","FSEV","K","",0,13,"2024-10-03"],
+  ["S999L540","Noe som dufter?","FSEV","K","",0,21,"2024-10-03"],
+  ["S999L541","Noe som dufter?","FSEV","K","",0,14,"2024-10-03"],
+  ["S999L560","Hører du noen lyder?","FSEV","K","",0,25,"2024-10-03"],
+  ["S999L561","Hører du noen lyder?","FSEV","K","",0,15,"2024-10-03"],
+  ["S999L580","Kjenn på underlaget? ","FSEV","K","",0,6,"2024-10-03"]
+]
